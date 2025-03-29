@@ -1,3 +1,6 @@
+
+![GitHub Banners](https://github.com/user-attachments/assets/be6fbdf9-5f68-455c-b326-c605795e71ed)
+
 # Streamlining On-Prem Data Flow into Snowflake
 
 ## 1.0 Overview
